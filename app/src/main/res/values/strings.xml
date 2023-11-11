@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VTask</string>
+    <string name="title_activity_task_display">TaskDisplayActivity</string>
+    <string name="remaining_time">Remaining time</string>
+    <string name="late_by">Late by</string>
+    <string name="title_activity_app_browser">AppBrowserActivity</string>
+    <string name="title_activity_task_editor">TaskEditorActivity</string>
+    <string name="title">Title</string>
+    <string name="deadline">Deadline</string>
+    <string name="duration">Duration</string>
+    <string name="content">Content</string>
+</resources>
